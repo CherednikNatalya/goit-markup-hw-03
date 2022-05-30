@@ -330,6 +330,9 @@ line-height: 1.71;
 letter-spacing: 0.03em;
 color: rgba(255, 255, 255, 0.6);
 }
+.footer-list {
+  margin-top: 20px;
+}
 
 .footer-link {
 margin-bottom: 20px;
@@ -383,6 +386,7 @@ letter-spacing: 0.03em;
 color: var(--main-title-color);
 background: #F5F4FA;
 border-radius: 4px;
+border: none;
 }
 
 .examples-title {
@@ -433,6 +437,4 @@ flex-wrap: wrap;
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
- 
-  ;
 }
